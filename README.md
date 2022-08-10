@@ -1,4 +1,4 @@
-# financial-report-using-PowerBI
+# financial-report-using-PowerBI and SQL
 
    * performed some queries using MYSQL such as
         windows functions 
